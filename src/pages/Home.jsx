@@ -21,6 +21,12 @@ const Home = () => {
       <h1>
      Aplicação React Base
       </h1>
+      <h2>
+      Isto é um teste
+      </h2>
+      <h3>
+        teste
+      </h3>
     </Base>
   )
 }

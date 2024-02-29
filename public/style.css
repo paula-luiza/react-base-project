@@ -6,11 +6,11 @@
   /* CSS HSL */
   /* https://coolors.co/ */
 
-  --primaria: hsla(210, 67%, 43%, 1);
-  --background: hsla(108, 22%, 87%, 1);
-  --secundaria: hsla(34, 100%, 50%, 1);
-  --destaque: hsla(355, 78%, 56%, 1);
-  --detalhe: hsla(9, 63%, 45%, 1);
+  --primaria: rgb(171, 36, 183);
+  --background: rgb(190, 241, 181);
+  --secundaria: rgb(255, 0, 153);
+  --destaque: rgb(235, 95, 48);
+  --detalhe: rgb(186, 151, 226);
 
 
 /*  --primaria: hsla(0, 1%, 20%, 1);
@@ -42,6 +42,6 @@ div.container {
   padding: 1rem;
 }
 
-h1,h2,h3,h4,h5,h6{
+h1,h2,h3,h4,h5,h6,p{
   margin: 0;
 }
